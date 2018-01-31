@@ -13,7 +13,8 @@ public class StringCalculator {
             int total =0;
             List<String> stringa = new ArrayList<String>(Arrays.asList(test.split(",")));
             for (int i = 0; i <stringa.size() ; i++) {
-                total+=total+(Integer.parseInt(stringa.get(i)));
+                System.out.println(stringa);
+                total+=(Integer.parseInt(stringa.get(i)));
 
             }
             return total;
