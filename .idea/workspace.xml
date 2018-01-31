@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3d983a3-0463-4ca6-9d76-a795577a73f5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/StringCalculator.iml" afterPath="$PROJECT_DIR$/StringCalculator.iml" />
       <change beforePath="$PROJECT_DIR$/src/edu/ithaca/afolabi/StringCalculator.java" afterPath="$PROJECT_DIR$/src/edu/ithaca/afolabi/StringCalculator.java" />
       <change beforePath="$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java" afterPath="$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java" />
     </list>
@@ -30,21 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StringCalculator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edu/ithaca/afolabi/StringCalculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StringCalculatorTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="82">
+              <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -71,8 +69,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java" />
         <option value="$PROJECT_DIR$/src/edu/ithaca/afolabi/StringCalculator.java" />
+        <option value="$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java" />
       </list>
     </option>
   </component>
@@ -290,18 +288,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java">
+    <entry file="file://$PROJECT_DIR$/src/edu/ithaca/afolabi/StringCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/edu/ithaca/afolabi/StringCalculator.java">
+    <entry file="file://$PROJECT_DIR$/test/edu/ithaca/afolabi/StringCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="82">
+          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
           <folding />
         </state>
       </provider>
