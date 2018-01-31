@@ -34,7 +34,7 @@ class StringCalculatorTest {
         int addret7=mtSC.Add(teststring7);
         assertEquals(1,addret7);
         String teststring8="-2,-1";
-        int addret8=mtSC.Add(teststring);
+        int addret8=mtSC.Add(teststring8);
         assertEquals(-3,addret8);
         String teststring9="-2,0";
         int addret9=mtSC.Add(teststring9);
