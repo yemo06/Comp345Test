@@ -5,7 +5,12 @@ public class StringCalculator {
         if(test.equals("")){
             return 0;
         }
-        return 0;
+        else {
+            int result= Integer.parseInt(test);
+            return result;
+
+        }
+        //return 0;
 
     }
 

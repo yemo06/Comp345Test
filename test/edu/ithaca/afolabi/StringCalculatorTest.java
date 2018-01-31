@@ -11,7 +11,7 @@ class StringCalculatorTest {
         String teststring="";
         int addret =mtSC.Add(teststring);
         assertEquals(0,addret);
-        
+
         String teststring2="1";
         int addret2 =mtSC.Add(teststring);
         assertEquals(1,addret2);
