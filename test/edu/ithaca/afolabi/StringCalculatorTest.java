@@ -13,16 +13,34 @@ class StringCalculatorTest {
         assertEquals(0,addret);
 
         String teststring2="1";
-        int addret2 =mtSC.Add(teststring);
+        int addret2 =mtSC.Add(teststring2);
         assertEquals(1,addret2);
 
         String teststring3="-5";
-        int addret3 =mtSC.Add(teststring);
-        assertEquals(1,addret3);
+        int addret3 =mtSC.Add(teststring3);
+        assertEquals(-5,addret3);
 
         String teststring4="0";
-        int addret4 =mtSC.Add(teststring);
-        assertEquals(1,addret4);
+        int addret4 =mtSC.Add(teststring4);
+        assertEquals(0,addret4);
+        //two num
+        String teststring5="0,1";
+        int addret5 =mtSC.Add(teststring5);
+        assertEquals(1,addret5);
+        String teststring6="2,3";
+        int addret6 =mtSC.Add(teststring6);
+        assertEquals(5,addret6);
+        String teststring7="-2,1";
+        int addret7=mtSC.Add(teststring7);
+        assertEquals(1,addret7);
+        String teststring8="-2,-1";
+        int addret8=mtSC.Add(teststring);
+        assertEquals(-3,addret8);
+        String teststring9="-2,0";
+        int addret9=mtSC.Add(teststring9);
+        assertEquals(-2,addret9);
+
+
 
     }
 }
