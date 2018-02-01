@@ -56,6 +56,10 @@ class StringCalculatorTest {
         int addret12=mtSC.Add(teststring12);
         assertEquals(40,addret12);
 
+        String teststring13="2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1";
+        int addret13=mtSC.Add(teststring13);
+        assertEquals(41,addret13);
+
 
     }
 }
